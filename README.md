@@ -5,7 +5,6 @@
 
 Proyek ini menyediakan daftar blokir untuk menjaga keamanan keluarga, sekolah, kantor, dan jaringan publik dari akses ke situs-situs dewasa.
 Filter disusun dengan rapi, ringan, dan mudah digunakan.
-Filter ini digunakan untuk melengkapi DNS Clean Browsing 
 
 ---
 
@@ -18,6 +17,7 @@ Filter ini digunakan untuk melengkapi DNS Clean Browsing
   * uBlock Origin
   * AdGuard
   * AdBlock / AdBlock Plus
+  * Brave Browser 
   * Pi-hole
   * DNS Sinkhole
 * 📦 **Format murni ABP / AdBlock Syntax (`$doc`)**
@@ -35,6 +35,17 @@ Tambahkan URL berikut pada bagian **Custom Filter List**:
 https://cdn.jsdelivr.net/gh/ChowMein47/Safety-Filters@refs/heads/main/adult_blocklist.txt
 ```
 ---
+
+## 🔐 Rekomendasi Penggunaan
+
+Filter ini dirancang agar **melengkapi sistem DNS Family Filter** seperti *Clean Browsing – Family Filter*, *AdGuard DNS Family*, serta layanan DNS penyaring konten lainnya.
+
+Untuk perlindungan maksimal pada browser, sangat direkomendasikan juga menggunakan **ekstensi adblocker** seperti:
+
+* **AdGuard Extension**
+* **uBlock Origin**
+
+Kombinasi DNS Family Filter + AdBlock Extension akan memberikan keamanan terbaik karena mampu memblokir konten dewasa di tingkat DNS sekaligus mencegah akses melalui browser.
 
 ## 🧪 Contoh Format Filter
 

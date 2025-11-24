@@ -32,7 +32,7 @@ Filter ini digunakan untuk melengkapi DNS Clean Browsing
 Tambahkan URL berikut pada bagian **Custom Filter List**:
 
 ```
-hhttps://cdn.jsdelivr.net/gh/ChowMein47/Safety-Filters@refs/heads/main/adult_blocklist.txt
+https://cdn.jsdelivr.net/gh/ChowMein47/Safety-Filters@refs/heads/main/adult_blocklist.txt
 ```
 ---
 

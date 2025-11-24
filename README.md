@@ -31,7 +31,7 @@ Filter disusun dengan rapi, ringan, dan mudah digunakan.
 Tambahkan URL berikut pada bagian **Custom Filter List**:
 
 ```
-https://raw.githubusercontent.com/<username>/<repo-name>/main/anti-porn-list.txt
+hhttps://cdn.jsdelivr.net/gh/ChowMein47/Safety-Filters@refs/heads/main/adult_blocklist.txt
 ```
 ---
 

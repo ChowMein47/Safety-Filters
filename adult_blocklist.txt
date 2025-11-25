@@ -1,6 +1,6 @@
 ! Title: 🚫Anti-Porn Filter List 
 ! Updated: 2025-11-25
-! Expires: 1 day (update frequency)
+! Expires: 2 days (update frequency)
 ! Homepage: https://github.com/ChowMein47/pornshield-blocklist
 ! License: Mozilla Public License Version 2.0
 
@@ -29,12 +29,22 @@
 ||assoass.com$doc
 ||fux.com$doc
 ||peekvids.com$doc
+||sarapbabe.com$doc
 
 !!Local Indonesia sites 
 ||tiava.com$doc
 ||indo18.com$doc
+||sange.link$doc
+||ngomek.com$doc
+||lendirqu.cam$doc
+||nontonhentai.net$doc
+||doood.app$doc
+||vip1.urlkontolin.click$doc
+||ceritaseksindo.org$doc
+||nntnbkptv2.space$doc
+||mlyuk.pro$doc
 
-!!REGEX BLOCKING 
+!!REGEX GENERAL BLOCKING 
 /:\/\/[^\/]*(porn|xxx|sex|adult|erotic|hentai|jav|fetish|pussy|bdsm|cam|escort|fap|gay|milf|bokep|crot|nsfw)[^\/]*\./$document
 
 !!xhamster family sites

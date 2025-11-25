@@ -47,6 +47,7 @@ Untuk perlindungan maksimal pada browser, sangat direkomendasikan juga menggunak
 
 Kombinasi DNS Family Filter + AdBlock Extension akan memberikan keamanan terbaik karena mampu memblokir konten dewasa di tingkat DNS sekaligus mencegah akses melalui browser.
 
+---
 
 ## 🛠️ Kontribusi
 

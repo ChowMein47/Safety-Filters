@@ -47,18 +47,6 @@ Untuk perlindungan maksimal pada browser, sangat direkomendasikan juga menggunak
 
 Kombinasi DNS Family Filter + AdBlock Extension akan memberikan keamanan terbaik karena mampu memblokir konten dewasa di tingkat DNS sekaligus mencegah akses melalui browser.
 
-## 🧪 Contoh Format Filter
-
-### **ABP Syntax – `$doc`**
-
-```
-||exampleadultsite.com$doc
-||badcontent.xxx$doc
-||randompornsite.net$doc
-||nsfw-domain.org$doc
-```
-
----
 
 ## 🛠️ Kontribusi
 

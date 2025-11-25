@@ -76,8 +76,11 @@ Gunakan **Issue** atau **Pull Request** untuk kontribusi.
 
 ## ⚠️ Disclaimer
 
-Blocklist ini dibuat untuk **perlindungan** dan **pencegahan akses konten dewasa**.
+* Blocklist ini dibuat untuk **perlindungan** dan **pencegahan akses konten dewasa**.
 Tidak ditujukan untuk sensor politik, pelacakan, atau aktivitas yang melanggar hukum.
+
+* > Filter regex dalam daftar ini **mungkin tidak bekerja optimal di Brave Browser**.  
+> Hal ini karena Brave menggunakan bahasa Rust untuk implementasi AdBlock-nya, sehingga beberapa regex kompleks 
 
 ---
 
